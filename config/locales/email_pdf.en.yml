@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      email_pdf:
+        title: "Email"
+        menu: "Email"
+        breadcrumb: "Email"
+        link: "Email"
+        bulk_link: "Email Pdf selected %{model_label_plural}"
+        done: "Email Pdfed"
